@@ -1,0 +1,46 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "研究計畫相關 FAQ"
+  author: "林政道、張碧珊、何郁庭、呂欣蓓、郭礎嘉、蘇昱、黃慎雯、吳立越"
+  date: "2023-06-04"
+  page-navigation: true
+  repo-url: https://github.com/tw-ncyu/research-FAQ
+  repo-actions: [edit, issue, source]
+  downloads: [pdf, epub, docx]
+  sharing: [facebook, twitter]
+  chapters:
+    - index.qmd
+    - part: project_admin.qmd
+      chapters:
+      - project_apply.qmd
+      - project_stamp.qmd
+      - project_reimburse.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: simplex 
+    code-copy: true
+    fig-responsive: true
+    citations-hover: true
+    comment-hover: true
+    crossref:
+      fig-title: 圖
+      tbl-title: 表
+      fig-prefix: 圖
+      tbl-prefix: 表
+  pdf:
+    header-includes:
+      - \usepackage{fontspec} # 使用 fontspec package
+      - \usepackage{xeCJK}    # 使用 xeCJK package
+      - \setCJKmainfont{Songti TC}
+    documentclass: scrreprt
+  epub:
+    css: epub-styles.css
+
+

@@ -1,0 +1,31 @@
+---
+tag: 學校行政, 研究計畫, ncyu
+number-sections: true
+toc: true
+---
+
+# 計畫投標標案流程 {#sec-apply_project}
+
+1. 到[政府採購網](http://web.pcc.gov.tw/pishtml/pisindex.html)查詢標案。
+2. 將標案名稱、標案案號mail 寄給研發處(目前是楊宗鑫先生(mail: eric678@mail.ncyu.edu.tw)負責)，請承辦同仁代為領標。
+
+   ::: {.callout-note}
+   通常會事先寄信給研發處後，再打校內分機(7161–7163)確認    
+   :::
+
+4. 領標後，依標案需求進行。
+5. 所需要的可能有**電子領標憑證**、**學校立案證明**、**學校免稅證明**、**廠商聲明書**、**參選授權書**、**委託代理出席授權書**
+    1. 電子領標憑證在請研發處幫忙領標後，通常研發處會隨信附上。
+   2. 到文書組的[表單下載](  http://www.ncyu.edu.tw/document/gradation.aspx?site_content_sn=452)找尋**立案證明與免稅證明**
+   2. 廠商聲明通常包括在對方給予的文件中
+   4. 廠商聲明通常需要學校雇用人數、身障人數與原住民人數，請至人事室-[人數統計](http://www.ncyu.edu.tw/personnel/itemize_list.aspx?site_content_sn=9183&fbclid=IwAR3rpSIzZqrRAae3l0COkqQNI2oD4meNp-lttOlJaO4Bq9yaf4oPh_FqtI4)下載
+   5. **廠商聲明書**、**參選授權書**、**委託代理出席授權書**、**標單**、**經費分析表**舉凡是要**廠商(學校)** 以及**負責人(校長)** 用印的部分，就需要填寫[用印申請書](http://www.ncyu.edu.tw/document/gradation.aspx?site_content_sn=452)。
+   6. 用印申請書請注意，如果是政府機關，會辦單位請研發處蓋章即可。若是非政府機關，會辦單位則為**產學處**與**主計室**。請註明所需大小章數量(大章:學校，小章:校長)。
+6. 完成之文件範例如[連結](https://drive.google.com/open?id=1PWBgOJgldw878KZUJSSLPJVKyk9xHoE0)。
+7. 撰寫計劃書。請注意投標文件中[邀標書](https://drive.google.com/open?id=1BUpDplEXRvyVxZWp7cyg0SLsSLCwYiIZ)的要求項目，計劃書必須針對要求項目撰寫。
+8. 資料封袋，封好之後外面的資料也要寫好包含統一編號、地址、廠商名稱之類的要寫齊全。國家單位的計畫案有時會附上[投標封外封面](https://drive.google.com/a/smail.nchu.edu.tw/file/d/13jWpw91a2wmO7T_AU81PSorECmXC9Prq/view?usp=sharing)。
+9. 務必注意標案的時程，最糟狀況就是在截止日當天親送。
+
+## 參考連結
+
+[HackMD 草稿](https://hackmd.io/@mutolisp/HkBMHP9rL/%2FwAM7cF1sTjis1oCaLt7a3g)

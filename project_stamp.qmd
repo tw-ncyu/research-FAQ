@@ -1,0 +1,23 @@
+---
+tag: 學校行政, 研究計畫, ncyu
+number-sections: true
+toc: true
+---
+# 用印 {#sec-stamp}
+
+## 使用時機
+需要以「國立嘉義大學」名義進行簽約、商業行為時，需要向學校申請用印流程，使文件能蓋上代表學校之印信(關防)。如與民間保險公司簽訂保險合約，或是投標計畫等。
+
+## 流程
+
+可網路上搜尋嘉義大學用印申請單下載後依以下範例填寫。
+
+![用印申請範例](images/stamp_template.png) 
+
+[用印申請單](http://www.ncyu.edu.tw/files/site_content/document/%E7%94%A8%E5%8D%B0%E7%94%B3%E8%AB%8B%E5%96%AE1070509.pdf)
+
+用印申請單流程相對較少，且時限通常較短，建議親跑
+
+## 參考資料
+
+[HackMD 草稿](https://hackmd.io/@mutolisp/HkBMHP9rL/%2F4Hy6kKppR4iBhhF97UK-CQ)
